@@ -12,4 +12,4 @@ assignees: ''
 Provide details on what needs to be done for the specific task. 
 
 ## Additional Information
-Any additional information that you think would be useful for someone to know.
+Any additional information that would be useful for someone to know (such as the expected output and where it will be saved).
