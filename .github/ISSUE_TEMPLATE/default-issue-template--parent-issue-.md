@@ -12,7 +12,7 @@ assignees: ''
 Outline what will be addressed in this issue.
 
 ## Definition of done
-Outline the tasks that need to be carried out for this issue. For each task, also create a related sub-issue.
+Outline the tasks required to address this issue. For each task, also create a related sub-issue and assign at least one team member to it. 
 - [ ] Task 1
 - [ ] Task 2
 ...
